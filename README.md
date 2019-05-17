@@ -6,7 +6,7 @@
 
 ## 📣 Prerequisites
 
-- Obtain a [Personal Access Token (PAT)](https://github.com/settings/tokens) with `repo` scope
+- Obtain a [Personal Access Token (PAT)](https://github.com/settings/tokens/new?scopes=repo&description=scale-1-demystifying-monorepos) with `repo` scope
 - Download [https://github.com/github/git-sizer](git-sizer)
 - Have a Bash environment with [jq](https://stedolan.github.io/jq/)
 
