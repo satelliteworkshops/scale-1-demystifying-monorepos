@@ -4,6 +4,10 @@
 
 [https://githubsatellite.com/workshops/#demystifying-monorepos](https://githubsatellite.com/workshops/#demystifying-monorepos) — [@steffen](https://github.com/steffen)
 
+## 📽 Slides
+
+[`demystifying-monorepos.pdf`](./demystifying-monorepos.pdf)
+
 ## 📣 Prerequisites
 
 - Obtain a [Personal Access Token (PAT)](https://github.com/settings/tokens/new?scopes=repo&description=scale-1-demystifying-monorepos) with `repo` scope
